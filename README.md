@@ -37,7 +37,7 @@ export class AntonioVladimir {
 
 <div align="center" style="padding-top:14px; padding-bottom:14px;">
     <h4 style="padding-top:14px; padding-bottom:14px;">
-        Happy coding...Coming soon!
+        Happy coding...
     </h4>
     <h5 style="padding-top:14px; padding-bottom:14px;">
         Coming soon!
